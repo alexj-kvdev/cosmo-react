@@ -1,0 +1,12 @@
+.card-item-img img{
+    float:left;
+}
+.card-item-img img{
+    width:120px;
+
+}
+
+.card-item-info{
+    float:right;
+    width:270px;
+}
